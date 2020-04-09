@@ -25,6 +25,7 @@
     <v-row class="DataBlock">
       <confirmed-cases-number-card />
       <tested-number-card />
+      <consultation-desk-reports-number-card />
     </v-row>
     <v-divider />
   </div>
@@ -39,6 +40,7 @@ import Data from '@/data/data.json'
 import News from '@/data/news.json'
 import ConfirmedCasesNumberCard from '@/components/cards/ConfirmedCasesNumberCard.vue'
 import TestedNumberCard from '@/components/cards/TestedNumberCard.vue'
+import ConsultationDeskReportsNumberCard from '@/components/cards/ConsultationDeskReportsNumberCard.vue'
 import { convertDatetimeToISO8601Format } from '@/utils/formatDate'
 
 export default Vue.extend({
@@ -46,7 +48,8 @@ export default Vue.extend({
     PageHeader,
     WhatsNew,
     ConfirmedCasesNumberCard,
-    TestedNumberCard
+    TestedNumberCard,
+    ConsultationDeskReportsNumberCard
   },
   data() {
     const data = {
