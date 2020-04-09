@@ -1,0 +1,11 @@
+{
+  "name": "generate-data-json",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Kohei Watanabe <kou029w@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "csv": "^5.3.2"
+  }
+}

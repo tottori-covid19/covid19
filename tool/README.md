@@ -1,12 +1,13 @@
-# Need
+# data.json の生成
 
-- php 7.x
-- composer
+データセットをdownloadsディレクトリ以下に配置した後、以下ののコマンドを実行
 
-# Usage
+```js
+yarn
+node main.js
+```
 
-- download source xlsx files to `downloads` dir
-- composer install
-- php convert.php
-- will be update data.json to {project_dir}/data/data.json
+## 対象のデータセット
 
+- tottori/inspection.csv
+- tottori/querent.csv
