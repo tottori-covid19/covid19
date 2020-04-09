@@ -13,11 +13,11 @@
           <img
             class="SideNavigation-HeaderLogo"
             src="/logo.svg"
-            :alt="$t('東京都')"
+            :alt="$t('鳥取県')"
           />
           <div class="SideNavigation-HeaderText">
             {{ $t('menu/新型コロナウイルス感染症') }}<br />{{
-              $t('menu/対策サイト')
+              $t('menu/対策サイト') + ' (' + this.$t('非公式') + ')'
             }}
           </div>
         </nuxt-link>
@@ -84,7 +84,7 @@
             </picture>
           </a> -->
           <a
-            href="https://github.com/tokyo-metropolitan-gov/covid19"
+            href="https://github.com/tottori-covid19/covid19"
             target="_blank"
             rel="noopener noreferrer"
             class="SideNavigation-SocialLink"
@@ -106,8 +106,6 @@
             {{ $t('クリエイティブ・コモンズ 表示 4.0 ライセンス') }}
           </a>
           {{ $t('の下に提供されています。') }}
-          <br />
-          2020 Tokyo Metropolitan Government
         </small>
       </footer>
     </div>
@@ -143,7 +141,7 @@ export default Vue.extend({
       return [
         {
           icon: 'mdi-chart-timeline-variant',
-          title: this.$t('都内の最新感染動向'),
+          title: this.$t('鳥取県の最新感染動向'),
           link: this.localePath('/')
         },
         // {
@@ -164,13 +162,17 @@ export default Vue.extend({
         //   divider: true
         // },
         {
-          title: this.$t('当サイトについて'),
-          link: this.localePath('/about')
+          title: this.$t('鳥取県新型コロナウイルス感染症特設サイト'),
+          link: 'https://www.pref.tottori.lg.jp/corona-virus/'
         },
         {
-          title: this.$t('お問い合わせ先一覧'),
-          link: this.localePath('/contacts')
+          title: this.$t('当サイトについて'),
+          link: this.localePath('/about')
         }
+        // {
+        //   title: this.$t('お問い合わせ先一覧'),
+        //   link: this.localePath('/contacts')
+        // }
       ]
     }
   },

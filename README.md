@@ -1,8 +1,6 @@
-# 東京都 新型コロナウイルス感染症対策サイト
+# 鳥取県 新型コロナウイルス感染症対策サイト (非公式)
 
-![](https://github.com/tokyo-metropolitan-gov/covid19/workflows/production%20deploy/badge.svg)
-
-[![東京都 新型コロナウイルス感染症対策サイト](https://user-images.githubusercontent.com/1301149/75629392-1d19d900-5c25-11ea-843d-2d4376e3a560.png)](https://stopcovid19.metro.tokyo.lg.jp/)
+[東京都 新型コロナウイルス感染症対策サイト](https://stopcovid19.metro.tokyo.lg.jp/)をもとにして作成しました。
 
 ### 日本語 | [English](./docs/en/README.md) | [Español](./docs/es/README.md) | [한국어](./docs/ko/README.md) | [繁體中文](./docs/zh_TW/README.md) | [简体中文](./docs/zh_CN/README.md) | [Tiếng Việt](./docs/vi/README.md) | [ภาษาไทย](./docs/th/README.md) | [Français](./docs/fr/README.md)
 
@@ -90,7 +88,7 @@ $ docker-compose run --rm app yarn install
 
 ### 本番環境/その他の判定
 
-`process.env.GENERATE_ENV` の値が、本番の場合は`'production'`に、それ以外の場合は `'development'` になっています。  
+`process.env.GENERATE_ENV` の値が、本番の場合は`'production'`に、それ以外の場合は `'development'` になっています。
 テスト環境のみで実行したい処理がある場合はこちらの値をご利用ください。
 
 ### ステージング・本番環境への反映
@@ -106,7 +104,7 @@ $ docker-compose run --rm app yarn install
 development, dev-hotfix 以外は Pull Request は禁止です。
 Pull Request を送る際の branch は、以下のネーミングルールでお願いします。
 
-機能追加系： feature/#{ISSUE_ID}-#{branch_title_name}  
+機能追加系： feature/#{ISSUE_ID}-#{branch_title_name}
 ホットフィックス系: hotfix/#{ISSUE_ID}-#{branch_title_name}
 
 #### 基本的なブランチ
