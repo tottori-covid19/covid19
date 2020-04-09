@@ -1,0 +1,9 @@
+{
+  "newsItems": [
+    {
+      "date": "1970/01/01",
+      "url": "https://www.example.org/",
+      "text": "Example"
+    }
+  ]
+}
