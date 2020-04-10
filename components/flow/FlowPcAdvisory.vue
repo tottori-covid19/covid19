@@ -7,14 +7,51 @@
             $t('新型コロナ受診相談窓口（日本語のみ）')
           }}</span>
         </div>
-        <div :class="[$style.AdvisoryContentsColsSentense, 'mt-4']">
-          {{ $t('帰国者・接触者 電話相談センター') }}
-        </div>
-        <div>
-          <div :class="[$style.AdvisoryBoxContainer, $style.AdvisoryWhiteBox]">
-            <span :class="$style.AdvisoryWhiteBoxSentense">
-              {{ $t('24時間対応') }}
-            </span>
+      </div>
+
+      <div :class="$style.AdvisoryContents">
+        <div class="py-8">
+          <div :class="$style.AdvisoryContentsTitle2">
+            {{ $t('鳥取県東部地区') }}
+          </div>
+          <span>{{ $t('平日8:30～17:15') }}</span>
+
+          <div
+            :class="[
+              $style.AdvisoryTelephoneArea,
+              $style.AdvisoryBlockCentering,
+              'mt-1'
+            ]"
+          >
+            <a :class="$style.AdvisoryTelephone" href="tel:0857225625">
+              <img
+                :class="$style.AdvisoryTelephoneIcon"
+                src="/flow/phone-24px.svg"
+                aria-hidden="true"
+                :alt="$t('電話番号')"
+              />
+              0857-22-5625
+            </a>
+          </div>
+          <div class="mt-1">
+            <span>{{ $t('上記の時間以外') }}</span>
+          </div>
+          <div
+            :class="[
+              $style.AdvisoryTelephoneArea,
+              $style.AdvisoryBlockCentering,
+              'mt-1'
+            ]"
+          >
+            <a :class="$style.AdvisoryTelephone" href="tel:0857228111">
+              <img
+                :class="$style.AdvisoryTelephoneIcon"
+                src="/flow/phone-24px.svg"
+                aria-hidden="true"
+                :alt="$t('電話番号')"
+              />
+              0857-22-8111
+            </a>
           </div>
         </div>
       </div>
@@ -22,60 +59,84 @@
       <div :class="$style.AdvisoryContents">
         <div class="py-8">
           <div :class="$style.AdvisoryContentsTitle2">
-            {{ $t('平日（日中）') }}
+            {{ $t('鳥取県中部地区') }}
           </div>
           <div
             :class="[
-              $style.AdvisoryLink,
+              $style.AdvisoryTelephoneArea,
               $style.AdvisoryBlockCentering,
-              'mt-4'
+              'mt-1'
             ]"
           >
-            <a
-              href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/coronasodan.html"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <span>{{ $t('各保健所の電話番号は福祉保健局HPへ') }}</span>
-              <v-icon size="18">
-                mdi-open-in-new
-              </v-icon>
+            <a :class="$style.AdvisoryTelephone" href="tel:0858233135">
+              <img
+                :class="$style.AdvisoryTelephoneIcon"
+                src="/flow/phone-24px.svg"
+                aria-hidden="true"
+                :alt="$t('電話番号')"
+              />
+              0858-23-3135
+            </a>
+          </div>
+          <div
+            :class="[
+              $style.AdvisoryTelephoneArea,
+              $style.AdvisoryBlockCentering,
+              'mt-1'
+            ]"
+          >
+            <a :class="$style.AdvisoryTelephone" href="tel:0858233136">
+              <img
+                :class="$style.AdvisoryTelephoneIcon"
+                src="/flow/phone-24px.svg"
+                aria-hidden="true"
+                :alt="$t('電話番号')"
+              />
+              0858-23-3136
             </a>
           </div>
         </div>
       </div>
 
       <div :class="$style.AdvisoryContents">
-        <div class="pt-8">
+        <div class="py-8">
           <div :class="$style.AdvisoryContentsTitle2">
-            {{ $t('平日（夜間）') }}
+            {{ $t('鳥取県西部地区') }}
           </div>
-          <span>{{ $t('午後5時から翌朝午前9時') }}</span>
-        </div>
-        <div class="mt-1">
-          <span :class="$style.AdvisoryContentsSubTitle">
-            {{ $t('土日祝 終日') }}
-          </span>
-        </div>
-        <div
-          :class="[
-            $style.AdvisoryTelephoneArea,
-            $style.AdvisoryBlockCentering,
-            'mt-1'
-          ]"
-        >
-          <a :class="$style.AdvisoryTelephone" href="tel:0353204592">
-            <img
-              :class="$style.AdvisoryTelephoneIcon"
-              src="/flow/phone-24px.svg"
-              aria-hidden="true"
-              :alt="$t('電話番号')"
-            />
-            03-5320-4592
-          </a>
-        </div>
-        <div v-if="!['ja', 'ja-basic'].includes($i18n.locale)" class="pt-8">
-          <span>{{ $t('ひまわり') }}</span>
+          <div
+            :class="[
+              $style.AdvisoryTelephoneArea,
+              $style.AdvisoryBlockCentering,
+              'mt-1'
+            ]"
+          >
+            <a :class="$style.AdvisoryTelephone" href="tel:0859310029">
+              <img
+                :class="$style.AdvisoryTelephoneIcon"
+                src="/flow/phone-24px.svg"
+                aria-hidden="true"
+                :alt="$t('電話番号')"
+              />
+              0859-31-0029
+            </a>
+          </div>
+          <div
+            :class="[
+              $style.AdvisoryTelephoneArea,
+              $style.AdvisoryBlockCentering,
+              'mt-1'
+            ]"
+          >
+            <a :class="$style.AdvisoryTelephone" href="tel:0859319317">
+              <img
+                :class="$style.AdvisoryTelephoneIcon"
+                src="/flow/phone-24px.svg"
+                aria-hidden="true"
+                :alt="$t('電話番号')"
+              />
+              0859-31-9317
+            </a>
+          </div>
         </div>
       </div>
     </div>
