@@ -166,6 +166,22 @@ export default Vue.extend({
           link: 'https://www.pref.tottori.lg.jp/corona-virus/'
         },
         {
+          title: this.$t('鳥取県新型コロナ対策パーソナルサポート LINE'),
+          link: 'https://line.me/R/ti/p/%40786vwqik'
+        },
+        {
+          title: this.$t('防災トリピー(鳥取県防災・危機管理情報) Twitter'),
+          link: 'https://twitter.com/tottori_bousai'
+        },
+        {
+          title: this.$t('鳥取県広報課 Twitter'),
+          link: 'https://twitter.com/tottori_kouhou'
+        },
+        {
+          title: this.$t('鳥取県広報課 Facebook'),
+          link: 'https://ja-jp.facebook.com/tottori.pref.kouhou'
+        },
+        {
           title: this.$t('当サイトについて'),
           link: this.localePath('/about')
         }
