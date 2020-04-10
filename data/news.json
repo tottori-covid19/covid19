@@ -1,3 +1,14 @@
 {
-    "newsItems": []
+    "newsItems": [
+        {
+            "date": "2020/4/10",
+            "url": "https://www.pref.tottori.lg.jp/item/1205071.htm",
+            "text": "新型コロナウイルス感染症(COVID-19)特設サイト"
+        },
+        {
+            "date": "2020/4/10",
+            "url": "https://www.pref.tottori.lg.jp/item/1195404.htm",
+            "text": "4月10日現在 新型コロナウイルスの影響で中止・延期するイベント等一覧"
+        }
+    ]
 }
