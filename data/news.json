@@ -2,6 +2,11 @@
     "newsItems": [
         {
             "date": "2020/4/10",
+            "url": "https://www.pref.tottori.lg.jp/item/1193051.htm",
+            "text": "新型コロナウイルスに関連した患者の発生(第1報)"
+        },
+        {
+            "date": "2020/4/10",
             "url": "https://www.pref.tottori.lg.jp/item/1205071.htm",
             "text": "新型コロナウイルス感染症(COVID-19)特設サイト"
         },
