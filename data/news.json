@@ -1,19 +1,19 @@
 {
-    "newsItems": [
-        {
-            "date": "2020/4/10",
-            "url": "https://www.pref.tottori.lg.jp/item/1197213.htm",
-            "text": "新型コロナウイルスに関連した患者の発生(第1報)"
-        },
-        {
-            "date": "2020/4/10",
-            "url": "https://www.pref.tottori.lg.jp/item/1205071.htm",
-            "text": "新型コロナウイルス感染症(COVID-19)特設サイト"
-        },
-        {
-            "date": "2020/4/10",
-            "url": "https://www.pref.tottori.lg.jp/item/1195404.htm",
-            "text": "4月10日現在 新型コロナウイルスの影響で中止・延期するイベント等一覧"
-        }
-    ]
+  "newsItems": [
+    {
+      "date": "2020-04-12T23:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1204686.htm",
+      "text": "布マスクの作り方・洗い方、政府の全戸配布に関するQ&A等"
+    },
+    {
+      "date": "2020-04-12T22:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1205071.htm",
+      "text": "チラシ「新型コロナウイルス感染拡大に係る個人支援策」(休業・生活・教育支援、納税猶予)(2020年4月8日版)"
+    },
+    {
+      "date": "2020-04-11T10:11:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1205360.htm",
+      "text": "2019年4月11日 島根県松江市の飲食店におけるクラスター発生の可能性"
+    }
+  ]
 }
