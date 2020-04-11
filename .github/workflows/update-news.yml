@@ -28,5 +28,4 @@ jobs:
       - run: git add data/news.json
       - run: git -c "user.name=${GITHUB_ACTOR}" -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" commit -m update-news
         continue-on-error: true
-      - if: success()
-        run: git push origin HEAD
+      - run: git push origin HEAD
