@@ -1,8 +1,8 @@
 name: update-news
-on: deployment
+on:
+  schedule: [{ cron: '*/5 * * * *' }]
 jobs:
   main:
-    if: github.event.deployment.task == 'update-news'
     runs-on: ubuntu-latest
     env:
       NEWS_FEED_URL: https://www.pref.tottori.lg.jp/services/rdf/rss10/589717.xml
