@@ -24,9 +24,10 @@ jobs:
           | ruby \
             -rcgi \
             -pe '$_=CGI.unescape_html($_)' \
-          > data/news.json
-      - run: git add data/news.json
-      - run: git -c "user.name=${GITHUB_ACTOR}" -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" commit -m update-news
-        continue-on-error: true
-      - if: success()
-        run: git push orign HEAD
+          | tee data/news.json
+      - run: echo TODO
+      # - run: git add data/news.json
+      # - run: git -c "user.name=${GITHUB_ACTOR}" -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" commit -m update-news
+      #   continue-on-error: true
+      # - if: success()
+      #   run: git push orign HEAD
