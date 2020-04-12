@@ -1,12 +1,14 @@
 const fs = require('fs')
 const csv = require('csv')
+const { utcToZonedTime, format } = require('date-fns-tz')
 
 const outputPath = '../data/data.json'
 
 const areaName = 'tottori'
-const defaultLanguageCode = 'ja-JP'
-const defaultTimezone = '+0900'
-const date = new Date().toLocaleString(defaultLanguageCode)
+const defaultTz = 'Asia/Tokyo'
+const defaultTzSuffix = '+0900'
+const zonedDate = utcToZonedTime(new Date(), defaultTz)
+const date = format(zonedDate, 'yyyy/M/d HH:mm', { timeZone: defaultTz })
 
 async function importInspectionDataset() {
   const inspectionDataset = fs.createReadStream(
@@ -34,7 +36,7 @@ async function importInspectionDataset() {
       patientsSummary.data.push({
         日付: [
           `${data.年}-${`0${data.月}`.slice(-2)}-${`0${data.日}`.slice(-2)}`,
-          `00:00:00${defaultTimezone}`
+          `00:00:00${defaultTzSuffix}`
         ].join('T'),
         小計: Number(data.陽性)
       })
@@ -69,7 +71,7 @@ async function importQuerentDataset() {
       querents.data.push({
         日付: [
           `${data.年}-${`0${data.月}`.slice(-2)}-${`0${data.日}`.slice(-2)}`,
-          `00:00:00${defaultTimezone}`
+          `00:00:00${defaultTzSuffix}`
         ].join('T'),
         小計: Number(data.相談件数)
       })
