@@ -13,21 +13,20 @@ jobs:
       - run: curl -sL -o tool/downloads/tottori/querent.csv "${QUERENT_DATASET_URL}"
       - id: git_status
         run: echo "::set-output name=mod::$(git status --porcelain)"
-      - run: echo "${{ steps.git_status.outputs.mod }}"
-      - run: echo TODO
-      # - if: steps.git_status.outputs.mod != ''
-      #   uses: actions/cache@v1
-      #   with:
-      #     path: tool/node_modules
-      #     key: yarn-${{ hashFiles('tool/yarn.lock') }}
-      #     restore-keys: yarn-
-      # - if: steps.git_status.outputs.mod != ''
-      #   run: |
-      #     yarn --cwd tool \
-      #     && yarn --cwd tool node main.js \
-      #     && git add data/data.json \
-      #     && git \
-      #       -c "user.name=${GITHUB_ACTOR}" \
-      #       -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" \
-      #       commit -m "${{ github.workflow }}" \
-      #     && git push origin HEAD
+      - if: steps.git_status.outputs.mod != ''
+        uses: actions/cache@v1
+        with:
+          path: tool/node_modules
+          key: yarn-${{ hashFiles('tool/yarn.lock') }}
+          restore-keys: yarn-
+      - if: steps.git_status.outputs.mod != ''
+        run: |
+          yarn --cwd tool \
+          && yarn --cwd tool node main.js \
+          && git add tool/downloads data/data.json \
+          && git status --porcelain \
+          && git \
+            -c "user.name=${GITHUB_ACTOR}" \
+            -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" \
+            commit -m "${{ github.workflow }}" \
+          && git push origin HEAD
