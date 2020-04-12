@@ -1,0 +1,25 @@
+name: update-data
+on:
+  schedule: [{ cron: '*/5 * * * *' }]
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    env:
+      INSPECTION_DATASET_URL: https://raw.githubusercontent.com/tottori-covid19/dataset/master/tottori/inspection.csv
+      QUERENT_DATASET_URL: https://raw.githubusercontent.com/tottori-covid19/dataset/master/tottori/querent.csv
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/cache@v1
+        with:
+          path: tool/node_modules
+          key: yarn-${{ hashFiles('tool/yarn.lock') }}
+          restore-keys: yarn-
+      - run: yarn --cwd tool
+      - run: mkdir -p tool/downloads/tottori
+      - run: curl -sL -o tool/downloads/tottori/inspection.csv "${INSPECTION_DATASET_URL}"
+      - run: curl -sL -o tool/downloads/tottori/querent.csv "${QUERENT_DATASET_URL}"
+      - run: yarn --cwd tool node main.js
+      - run: git add data/data.json
+      - run: git -c "user.name=${GITHUB_ACTOR}" -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" commit -m "${{ github.workflow }}"
+        continue-on-error: true
+      - run: git push origin HEAD
