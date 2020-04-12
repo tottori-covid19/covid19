@@ -19,7 +19,8 @@ jobs:
       - run: curl -sL -o tool/downloads/tottori/inspection.csv "${INSPECTION_DATASET_URL}"
       - run: curl -sL -o tool/downloads/tottori/querent.csv "${QUERENT_DATASET_URL}"
       - run: yarn --cwd tool node main.js
-      - run: git add data/data.json
-      - run: git -c "user.name=${GITHUB_ACTOR}" -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" commit -m "${{ github.workflow }}"
-        continue-on-error: true
-      - run: git push origin HEAD
+      - run: echo TODO
+      # - run: git add data/data.json
+      # - run: git -c "user.name=${GITHUB_ACTOR}" -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" commit -m "${{ github.workflow }}"
+      #   continue-on-error: true
+      # - run: git push origin HEAD
