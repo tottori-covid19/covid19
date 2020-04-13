@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
-      "date": "2020-04-13T01:10:00Z",
-      "url": "https://www.meti.go.jp/covid-19/jizokuka-qa.html",
-      "text": "【経済産業省】持続化給付金に関するよくあるお問合せ"
-    },
-    {
-      "date": "2020-04-13T00:53:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1197213.htm",
-      "text": "県内の新型コロナウイルスPCR検査実施件数"
-    },
-    {
-      "date": "2020-04-12T14:00:00Z",
+      "date": "2020-04-13T14:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1205360.htm",
       "text": "■重要■2020年4月11日 島根県松江市の飲食店BUZZ(バズ)におけるクラスター発生 → 利用者はお電話を！"
+    },
+    {
+      "date": "2020-04-13T06:37:00Z",
+      "url": "https://www.pref.tottori.lg.jp/secure/1205740/200413siryouteikyou_0413-1530_pcr-kensajoukyou_covid-19.pdf",
+      "text": "4月13日(月)実施のPCR検査の実施状況【第1報】"
+    },
+    {
+      "date": "2020-04-13T06:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1195404.htm",
+      "text": "4月13日現在 新型コロナウイルスの影響で中止・延期するイベント等一覧"
     }
   ]
 }
