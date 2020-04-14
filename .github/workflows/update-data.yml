@@ -9,6 +9,8 @@ jobs:
       QUERENT_DATASET_URL: https://raw.githubusercontent.com/tottori-covid19/dataset/master/tottori/querent.csv
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GIT_TOKEN }}
       - run: curl -sL -o tool/downloads/tottori/inspection.csv "${INSPECTION_DATASET_URL}"
       - run: curl -sL -o tool/downloads/tottori/querent.csv "${QUERENT_DATASET_URL}"
       - id: git_status
@@ -29,10 +31,4 @@ jobs:
             -c "user.name=${GITHUB_ACTOR}" \
             -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" \
             commit -m "${{ github.workflow }}" \
-          && git push origin HEAD \
-          && curl \
-            -H "Authorization: token ${{ github.token }}" \
-            -H "Accept: application/vnd.github.ant-man-preview+json" \
-            -H "Content-Type: application/json" \
-            -d "{\"ref\": \"${GITHUB_REF}\"}" \
-            "https://api.github.com/repos/${GITHUB_REPOSITORY}/deployments"
+          && git push origin HEAD
