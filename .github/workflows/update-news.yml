@@ -25,7 +25,16 @@ jobs:
             -rcgi \
             -pe '$_=CGI.unescape_html($_)' \
           | tee data/news.json
-      - run: git add data/news.json
-      - run: git -c "user.name=${GITHUB_ACTOR}" -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" commit -m update-news
-        continue-on-error: true
-      - run: git push origin HEAD
+      - id: git_status
+        run: echo "::set-output name=mod::$(git status --porcelain)"
+      - if: steps.git_status.outputs.mod != ''
+        run: |
+          git add data/news.json \
+          && git -c "user.name=${GITHUB_ACTOR}" -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" commit -m update-news \
+          && git push origin HEAD
+          && curl \
+            -H "Authorization: token ${{ github.token }}" \
+            -H "Accept: application/vnd.github.ant-man-preview+json" \
+            -H "Content-Type: application/json" \
+            -d "{\"ref\": \"${GITHUB_REF}\"}" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/deployments"
