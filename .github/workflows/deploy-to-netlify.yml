@@ -1,6 +1,7 @@
 name: Deploy
 
 on:
+  deployment:
   push:
     branches:
       - master
