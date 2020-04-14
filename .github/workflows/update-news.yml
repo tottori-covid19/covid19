@@ -8,6 +8,8 @@ jobs:
       NEWS_FEED_URL: https://www.pref.tottori.lg.jp/services/rdf/rss10/589717.xml
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GIT_TOKEN }}
       - run: |
           curl \
             -sL "https://api.rss2json.com/v1/api.json?rss_url=${NEWS_FEED_URL}" \
@@ -31,10 +33,4 @@ jobs:
         run: |
           git add data/news.json \
           && git -c "user.name=${GITHUB_ACTOR}" -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" commit -m update-news \
-          && git push origin HEAD \
-          && curl \
-            -H "Authorization: token ${{ github.token }}" \
-            -H "Accept: application/vnd.github.ant-man-preview+json" \
-            -H "Content-Type: application/json" \
-            -d "{\"ref\": \"${GITHUB_REF}\"}" \
-            "https://api.github.com/repos/${GITHUB_REPOSITORY}/deployments"
+          && git push origin HEAD
