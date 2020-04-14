@@ -31,7 +31,7 @@ jobs:
         run: |
           git add data/news.json \
           && git -c "user.name=${GITHUB_ACTOR}" -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" commit -m update-news \
-          && git push origin HEAD
+          && git push origin HEAD \
           && curl \
             -H "Authorization: token ${{ github.token }}" \
             -H "Accept: application/vnd.github.ant-man-preview+json" \
