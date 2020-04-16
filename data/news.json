@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-04-16T14:59:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1204674.htm",
+      "text": "■速報■政府 2020年4月16日 緊急事態宣言を変更(対象地域を全国に拡大)"
+    },
+    {
       "date": "2020-04-16T14:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1205360.htm",
       "text": "■重要■2020年4月11日 島根県松江市の飲食店BUZZ(バズ)におけるクラスター発生 → 利用者はお電話を！"
@@ -9,11 +14,6 @@
       "date": "2020-04-16T13:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1206552.htm",
       "text": "2020年4月16日 特措法に基づく鳥取県新型コロナウイルス感染症対策本部(第6回)"
-    },
-    {
-      "date": "2020-04-16T09:46:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1206560.htm",
-      "text": "うちで運do(ドゥ)！キャンペーン"
     }
   ]
 }
