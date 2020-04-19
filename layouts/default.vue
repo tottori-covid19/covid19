@@ -104,7 +104,7 @@ export default Vue.extend({
       link: [
         {
           rel: 'canonical',
-          href: `https://tottori-covid19.netlify.com${this.$route.path}`
+          href: `https://tottori-covid19.netlify.app${this.$route.path}`
         },
         {
           rel: 'stylesheet',
@@ -143,7 +143,7 @@ export default Vue.extend({
         {
           hid: 'og:url',
           property: 'og:url',
-          content: `https://tottori-covid19.netlify.com${this.$route.path}`
+          content: `https://tottori-covid19.netlify.app${this.$route.path}`
         },
         ogLocale,
         {
