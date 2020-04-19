@@ -23,7 +23,7 @@ const config: Configuration = {
       {
         hid: 'og:url',
         property: 'og:url',
-        content: 'https://tottori-covid19.netlify.com/'
+        content: 'https://tottori-covid19.netlify.app/'
       },
       {
         hid: 'twitter:card',
