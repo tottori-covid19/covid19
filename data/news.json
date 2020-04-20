@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2020-04-20T01:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1197213.htm",
+      "text": "PCR検査件数(日別、累計)"
+    },
+    {
       "date": "2020-04-19T22:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1206699.htm",
-      "text": "2020年4月20日 経済雇用対策本部会議(第2回)"
+      "text": "2020年4月20日 第2回経済雇用対策本部会議"
     },
     {
       "date": "2020-04-19T14:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
       "text": "2020年4月19日のPCR検査状況・相談件数・入院病床数"
-    },
-    {
-      "date": "2020-04-19T00:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1195788.htm",
-      "text": "県内患者2～3例目の検査結果等(第2報更新)"
     }
   ]
 }
