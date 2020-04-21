@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2020-04-21T01:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1197213.htm",
+      "text": "PCR検査件数(日別、累計)"
+    },
+    {
       "date": "2020-04-20T14:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1205360.htm",
       "text": "■重要■2020年4月11日 島根県松江市の飲食店BUZZでクラスター発生 → 利用者はお電話を！"
     },
     {
       "date": "2020-04-20T14:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
-      "text": "2020年4月20日のPCR検査状況・相談件数・入院病床数"
-    },
-    {
-      "date": "2020-04-20T12:56:00Z",
-      "url": "https://www.pref.tottori.lg.jp/291412.htm",
-      "text": "従業員が新型コロナウイルス感染症にかかった場合の対応"
+      "url": "https://www.pref.tottori.lg.jp/item/1207157.htm",
+      "text": "2020年4月20日 新たに電話相談窓口(体調に関する相談を除く)を設置、個人向・事業者向支援制度一覧"
     }
   ]
 }
