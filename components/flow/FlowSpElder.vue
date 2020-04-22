@@ -56,12 +56,12 @@
     </ul>
 
     <p :class="$style.duration">
-      <i18n path="{duration}続いている">
+      <i18n path="{duration}">
         <template v-slot:duration>
           <i18n
             :class="[$style.underline, $style.fzLarge]"
             tag="span"
-            path="{day}日程度"
+            path="すぐに"
           >
             <template v-slot:day>
               <strong :class="$style.fzNumeric">2</strong>

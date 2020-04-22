@@ -130,13 +130,9 @@
       </div>
       <div>
         <p>
-          <i18n path="{duration}続いている">
+          <i18n path="{duration}">
             <template v-slot:duration>
-              <i18n
-                tag="span"
-                path="{day}日程度"
-                :class="$style.FlowRowEmphasis"
-              >
+              <i18n tag="span" path="すぐに" :class="$style.FlowRowEmphasis">
                 <template v-slot:day>
                   <span :class="$style.FlowRowEmphasisDay">2</span>
                 </template>
