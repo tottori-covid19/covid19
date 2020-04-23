@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2020-04-23T06:40:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
+      "text": "2020年4月23日のPCR検査状況・相談件数・入院病床数"
+    },
+    {
+      "date": "2020-04-23T06:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1207107.htm",
+      "text": "県内陽性者2例目の状況(第5報) (2020年4月23日更新)"
+    },
+    {
       "date": "2020-04-23T02:52:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1207482.htm",
       "text": "ゴールデンウイークは、「おる(家に)・出ん(県外に)ウイーク」に!"
-    },
-    {
-      "date": "2020-04-23T01:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1197213.htm",
-      "text": "PCR検査件数(日別、累計)"
-    },
-    {
-      "date": "2020-04-22T14:20:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1207107.htm",
-      "text": "県内陽性者2例目の状況(第4報) (2020年4月22日更新)"
     }
   ]
 }
