@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2020-04-24T01:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1197213.htm",
+      "text": "PCR検査件数(日別、累計)"
+    },
+    {
+      "date": "2020-04-23T23:54:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1207661.htm",
+      "text": "2020年4月24日 第3回経済雇用対策本部会議の開催"
+    },
+    {
       "date": "2020-04-23T12:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
       "text": "2020年4月23日のPCR検査状況・相談件数・入院病床数"
-    },
-    {
-      "date": "2020-04-23T11:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1207587.htm",
-      "text": "【引火に注意】消毒用アルコール(エタノール等)の安全な取扱いについて"
-    },
-    {
-      "date": "2020-04-23T09:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1207259.htm",
-      "text": "妊娠されている方の新型コロナウイルス感染症対策について"
     }
   ]
 }
