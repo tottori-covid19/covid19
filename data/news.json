@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-04-25T00:40:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1197213.htm",
+      "text": "PCR検査件数(日別、累計)"
+    },
+    {
       "date": "2020-04-24T14:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1206560.htm",
       "text": "自宅でできる簡単な運動の動画「うちで運do(ドゥ)！キャンペーン」 (スポーツ課)"
@@ -9,11 +14,6 @@
       "date": "2020-04-24T13:52:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1207940.htm",
       "text": "2020年4月24日 教育長からのメッセージ、学校が休みの間に家庭でできる取組の紹介"
-    },
-    {
-      "date": "2020-04-24T11:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
-      "text": "2020年4月24日のPCR検査状況・相談件数・入院病床数"
     }
   ]
 }
