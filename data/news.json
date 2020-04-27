@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2020-04-27T03:03:00Z",
+      "url": "https://www.pref.tottori.lg.jp/291511.htm",
+      "text": "電話や情報通信機器を用いた診療（オンライン診療）を実施する県内医療機関の一覧"
+    },
+    {
+      "date": "2020-04-27T02:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1203145.htm",
+      "text": "新型コロナウイルスに関する皆様へのお願い事項 (4月27日11時更新)"
+    },
+    {
       "date": "2020-04-26T10:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
       "text": "2020年4月26日のPCR検査状況・相談件数・入院病床数"
-    },
-    {
-      "date": "2020-04-26T06:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1197213.htm",
-      "text": "PCR検査件数(日別、累計)"
-    },
-    {
-      "date": "2020-04-24T14:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1206560.htm",
-      "text": "自宅でできる簡単な運動の動画「うちで運do(ドゥ)！キャンペーン」 (スポーツ課)"
     }
   ]
 }
