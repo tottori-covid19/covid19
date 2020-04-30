@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2020-04-30T06:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1203145.htm",
+      "text": "新型コロナウイルスに関する皆様へのお願い事項 (4月30日15時更新)"
+    },
+    {
+      "date": "2020-04-30T05:12:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1208462.htm",
+      "text": "2020年5月1日 特措法に基づく鳥取県新型コロナウイルス感染症対策本部(第11回)"
+    },
+    {
       "date": "2020-04-30T04:40:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
       "text": "2020年4月30日のPCR検査状況・相談件数・入院病床数"
-    },
-    {
-      "date": "2020-04-29T09:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1208325.htm",
-      "text": "ゴールデンウイーク中の施設・駐車場の閉鎖等"
-    },
-    {
-      "date": "2020-04-28T13:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1206823.htm",
-      "text": "新型コロナウイルスの影響による運転免許更新業務の休止(4月19日～5月6日)、更新延長措置等"
     }
   ]
 }
