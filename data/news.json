@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2020-05-05T08:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1193067.htm",
+      "text": "2020年5月5日 特措法第45条第2項に基づくパチンコ店への施設の使用停止(休業)の要請及び同条第4項に基づく施設名等の公表"
+    },
+    {
+      "date": "2020-05-05T05:30:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
+      "text": "2020年5月5日のPCR検査状況・相談件数・入院病床数"
+    },
+    {
       "date": "2020-05-05T05:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1203145.htm",
       "text": "新型コロナウイルスに関する皆様へのお願い事項 (5月5日14時更新)"
-    },
-    {
-      "date": "2020-05-05T00:59:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1208768.htm",
-      "text": "2020年5月5日 特措法に基づく鳥取県新型コロナウイルス感染症対策本部(第12回)"
-    },
-    {
-      "date": "2020-05-04T08:55:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
-      "text": "2020年5月4日のPCR検査状況・相談件数・入院病床数"
     }
   ]
 }
