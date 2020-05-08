@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
-      "date": "2020-05-08T10:00:00Z",
+      "date": "2020-05-09T12:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1209038.htm",
+      "text": "2020年5月9日 TBS 「新・情報7daysニュースキャスター緊急拡大スペシャル！」(知事生出演)"
+    },
+    {
+      "date": "2020-05-08T13:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1209037.htm",
+      "text": "録画配信 2020年5月6日 BS日テレ 「深層NEWS 鳥取・埼玉両知事直撃 独自の取り組みを検証 緊急事態宣言の出口は？」"
+    },
+    {
+      "date": "2020-05-08T11:10:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
       "text": "2020年5月8日のPCR検査状況・相談件数・入院病床数"
-    },
-    {
-      "date": "2020-05-08T04:41:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1208959.htm#itemid1208959",
-      "text": "中小企業・個人事業主向け「持続化給付金サポート窓口」を設置しました"
-    },
-    {
-      "date": "2020-05-07T07:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1208834.htm",
-      "text": "チラシ「～新型コロナウイルス感染症予防のため～ 鳥取型「新しい生活様式」を実践！」"
     }
   ]
 }
