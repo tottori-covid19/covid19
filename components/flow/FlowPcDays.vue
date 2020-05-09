@@ -53,31 +53,6 @@
         />
       </div>
       <div :class="$style.FlowRowCondition">
-        <p>
-          <i18n
-            tag="span"
-            :class="$style.FlowRowConditionSmall"
-            path="発熱{temperature}"
-          >
-            <template v-slot:temperature>
-              <i18n tag="span" path="{tempNum}以上">
-                <template v-slot:tempNum>
-                  <span :class="$style.FlowRowConditionLarge">
-                    {{ $t('37.5℃') }}
-                  </span>
-                </template>
-              </i18n>
-            </template>
-          </i18n>
-        </p>
-        <img
-          :class="$style.FlowRowConditionIcon"
-          src="/flow/check_circle-24px.svg"
-          aria-hidden="true"
-          alt=" "
-        />
-      </div>
-      <div :class="$style.FlowRowCondition">
         <p>{{ $t('強いだるさ') }}</p>
         <img
           :class="$style.FlowRowConditionIcon"
@@ -125,6 +100,15 @@
               alt=" "
             />
             {{ $t('妊娠中の方') }}
+          </li>
+          <li :class="$style.FlowRowRowThreeCareTargetListItem">
+            <img
+              :class="$style.FlowRowRowThreeCareTargetListItemIcon"
+              src="/flow/accessibility-24px.svg"
+              aria-hidden="true"
+              alt=" "
+            />
+            {{ $t('高熱等の強い症状のある方') }}
           </li>
         </ul>
       </div>
