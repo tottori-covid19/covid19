@@ -9,7 +9,7 @@
     <div>
       <div class="Flow-Card-Button-Wrapper">
         <a
-          href="https://www.pref.tottori.lg.jp/289705.htm"
+          href="https://www.pref.tottori.lg.jp/item/1193151.htm"
           target="_blank"
           rel="noopener noreferrer"
           class="Flow-Card-Button"

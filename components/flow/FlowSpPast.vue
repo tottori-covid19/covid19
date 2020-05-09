@@ -1,7 +1,7 @@
 <template>
   <div :class="$style.container">
     <p :class="$style.heading">
-      <i18n path="{past}の出来ごとと症状" tag="span">
+      <i18n path="{past}の出来ごと" tag="span">
         <template v-slot:past>
           <i18n :class="$style.fzLarge" tag="span" path="発症前{two}週間以内">
             <template v-slot:two>
@@ -41,17 +41,6 @@
         }}</span>
       </template>
     </p>
-    <div :class="[$style.rectContainer, $style.req]">
-      <p :class="$style.symptom">
-        {{ $t('発熱') }}
-      </p>
-      <p :class="$style.op">
-        {{ $t('または') }}
-      </p>
-      <p :class="$style.symptom">
-        {{ $t('呼吸器症状') }}
-      </p>
-    </div>
     <p :class="[$style.type, $style.hr]">
       <template v-if="!langsWithoutFlowTitle.includes($i18n.locale)">
         <strong :class="$style.source">{{
@@ -93,29 +82,6 @@
         </i18n>
       </template>
     </p>
-    <div :class="[$style.rectContainer, $style.req]">
-      <p :class="$style.symptom">
-        {{ $t('呼吸器症状') }}
-      </p>
-      <p :class="$style.op">
-        {{ $t('かつ') }}
-      </p>
-      <p :class="$style.symptom">
-        <i18n tag="span" path="発熱{temperature}" :class="$style.fzSmall">
-          <template v-slot:temperature>
-            <i18n
-              tag="span"
-              path="{tempNum}以上"
-              :class="[$style.break, $style.fzRegular]"
-            >
-              <template v-slot:tempNum>
-                <span :class="$style.temp">{{ $t('37.5℃') }}</span>
-              </template>
-            </i18n>
-          </template>
-        </i18n>
-      </p>
-    </div>
     <a
       v-scroll-to="{
         el: '#consult',

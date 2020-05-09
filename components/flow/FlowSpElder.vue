@@ -19,6 +19,12 @@
         </span>
         {{ $t('妊娠中の方') }}
       </span>
+      <span :class="[$style.item, $style.fzMedium]">
+        <span :class="$style.icon">
+          <HumanIcon aria-hidden="true" />
+        </span>
+        {{ $t('高熱等の強い症状のある方') }}
+      </span>
     </div>
     <ul :class="[$style.rectContainer, $style.double]">
       <li :class="$style.symptom">
@@ -31,21 +37,6 @@
             </template>
           </i18n>
         </span>
-      </li>
-      <li :class="$style.symptom">
-        <i18n tag="span" path="発熱{temperature}" :class="$style.fzSmall">
-          <template v-slot:temperature>
-            <i18n
-              tag="span"
-              path="{tempNum}以上"
-              :class="[$style.break, $style.fzRegular]"
-            >
-              <template v-slot:tempNum>
-                <span :class="$style.temp">{{ $t('37.5℃') }}</span>
-              </template>
-            </i18n>
-          </template>
-        </i18n>
       </li>
       <li :class="$style.symptom">
         {{ $t('強いだるさ') }}
@@ -89,6 +80,7 @@
 import { onDoneScroll } from '@/utils/vueScrollTo'
 import AccessibleIcon from '@/static/flow/responsive/accessible.svg'
 import ArrowForwardIcon from '@/static/flow/responsive/arrow_forward.svg'
+import HumanIcon from '@/static/flow/responsive/accessibility.svg'
 import DirectionsWalkIcon from '@/static/flow/responsive/directions_walk.svg'
 import PregnantWomanIcon from '@/static/flow/responsive/pregnant_woman.svg'
 
@@ -96,6 +88,7 @@ export default {
   components: {
     AccessibleIcon,
     ArrowForwardIcon,
+    HumanIcon,
     DirectionsWalkIcon,
     PregnantWomanIcon
   },

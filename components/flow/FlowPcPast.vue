@@ -1,7 +1,7 @@
 <template>
   <section :class="$style.Flow">
     <div :class="$style.FlowHeading">
-      <i18n path="{past}の出来ごとと症状" tag="span">
+      <i18n path="{past}の出来ごと" tag="span">
         <template v-slot:past>
           <i18n :class="$style.FlowLText" tag="span" path="発症前{two}週間以内">
             <template v-slot:two>
@@ -92,47 +92,6 @@
             </template>
           </i18n>
         </template>
-      </div>
-      <div :class="$style.FlowCondition">
-        <em :class="$style.FlowSymptom">
-          {{ $t('発熱') }}
-          <img
-            :class="$style.FlowSymptomIcon"
-            src="/flow/check_circle-24px.svg"
-            aria-hidden="true"
-            alt=" "
-          />
-        </em>
-        <span :class="$style.FlowText">{{ $t('または') }}</span>
-        <em :class="$style.FlowSymptom">
-          {{ $t('呼吸器症状') }}
-          <img
-            :class="$style.FlowSymptomIcon"
-            src="/flow/check_circle-24px.svg"
-            aria-hidden="true"
-            alt=" "
-          />
-        </em>
-        <span :class="$style.FlowText">{{ $t('かつ') }}</span>
-        <em :class="$style.FlowSymptom">
-          <i18n tag="span" :class="$style.FlowTextSm" path="発熱{temperature}">
-            <template v-slot:temperature>
-              <i18n tag="span" path="{tempNum}以上">
-                <template v-slot:tempNum>
-                  <span :class="$style.FlowTemperature">
-                    {{ $t('37.5℃') }}
-                  </span>
-                </template>
-              </i18n>
-            </template>
-          </i18n>
-          <img
-            :class="$style.FlowSymptomIcon"
-            src="/flow/check_circle-24px.svg"
-            aria-hidden="true"
-            alt=" "
-          />
-        </em>
       </div>
     </div>
   </section>
