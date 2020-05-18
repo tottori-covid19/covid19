@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-05-18T11:02:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1205376.htm",
+      "text": "【5月18日 第2弾追加】新型コロナウイルスに関する知事のメッセージ動画"
+    },
+    {
       "date": "2020-05-18T11:01:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1203145.htm",
       "text": "新型コロナウイルスに関する皆様へのお願い事項 (5月18日修正)"
@@ -9,11 +14,6 @@
       "date": "2020-05-18T11:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1208834.htm",
       "text": "チラシ「～新型コロナウイルス感染症予防のため～ 鳥取型「新しい生活様式」を実践！」(5月15日版に更新)"
-    },
-    {
-      "date": "2020-05-18T09:45:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
-      "text": "2020年5月18日のPCR検査状況・相談件数・入院病床数"
     }
   ]
 }
