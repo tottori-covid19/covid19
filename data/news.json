@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-05-18T01:41:00Z",
+      "url": "https://www.meti.go.jp/press/2020/05/20200518001/20200518001.html",
+      "text": "持続化給付金申請サポート会場の米子・境港会場開設の発表"
+    },
+    {
       "date": "2020-05-17T05:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
       "text": "2020年5月17日のPCR検査状況・相談件数・入院病床数"
@@ -9,11 +14,6 @@
       "date": "2020-05-15T13:06:00Z",
       "url": "https://www.pref.tottori.lg.jp/290332.htm",
       "text": "県内事業者の皆さまへのお願い"
-    },
-    {
-      "date": "2020-05-15T10:34:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1209898.htm",
-      "text": "【鳥取県民限定】#WeLove鳥取キャンペーン　県内の観光地や飲食店を応援しましょう"
     }
   ]
 }
