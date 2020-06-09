@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2020-06-09T06:15:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
+      "text": "2020年6月9日のPCR検査状況・相談件数・入院病床数"
+    },
+    {
+      "date": "2020-06-09T06:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1212392.htm",
+      "text": "2020年6月12日 NHK鳥取総合TV「さんいんスペシャル どうなる？鳥取の経済 疑問・不安に答えます」(知事生出演)"
+    },
+    {
       "date": "2020-06-09T02:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1212489.htm",
-      "text": "車内での消毒用アルコールの取り扱いにご注意ください"
-    },
-    {
-      "date": "2020-06-08T23:55:00Z",
-      "url": "https://www.pref.tottori.lg.jp/291875.htm",
-      "text": "新型コロナウイルス感染予防対策協賛店募集"
-    },
-    {
-      "date": "2020-06-08T11:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1211815.htm",
-      "text": "医療機関・福祉施設に対する必要物資(マスク、消毒用アルコール等)の供給状況 (2020年6月5日現在)"
+      "text": "【引火に注意】自動車内での消毒用アルコールの取り扱いにご注意ください"
     }
   ]
 }
