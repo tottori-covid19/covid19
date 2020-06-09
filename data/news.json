@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-06-08T23:55:00Z",
+      "url": "https://www.pref.tottori.lg.jp/291875.htm",
+      "text": "新型コロナウイルス感染予防対策協賛店募集"
+    },
+    {
       "date": "2020-06-08T09:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
       "text": "2020年6月8日のPCR検査状況・相談件数・入院病床数"
@@ -9,11 +14,6 @@
       "date": "2020-06-08T06:18:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1212487.htm",
       "text": "鳥取県民コロナに打ち克つ行動宣言"
-    },
-    {
-      "date": "2020-06-07T23:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1208549.htm",
-      "text": "「第2回マスク購入券」による販売開始(6月15日～)及び「第1回マスク購入券」の利用期限延長"
     }
   ]
 }
