@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2020-06-12T10:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1212392.htm",
+      "text": "2020年6月12日 NHK鳥取総合TV「さんいんスペシャル どうなる？鳥取の経済 疑問・不安に答えます」(知事生出演)"
+    },
+    {
+      "date": "2020-06-11T06:40:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
+      "text": "2020年6月11日のPCR検査状況・相談件数・入院病床数"
+    },
+    {
       "date": "2020-06-11T04:47:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1207243.htm",
       "text": "外出自粛時の運動のために「自宅でできる！「とっとり方式認知症予防」運動プログラム」"
-    },
-    {
-      "date": "2020-06-10T06:20:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
-      "text": "2020年6月10日のPCR検査状況・相談件数・入院病床数"
-    },
-    {
-      "date": "2020-06-09T15:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1212799.htm",
-      "text": "2020年6月10日 観光客に安心感を与え、感染予防行動を啓発するための観光・宿泊施設等用ピクトグラム(ポスター・チラシ用素材)(鳥取県観光連盟)"
     }
   ]
 }
