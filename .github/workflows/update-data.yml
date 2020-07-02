@@ -28,7 +28,7 @@ jobs:
           && git add tool/downloads data/data.json \
           && git status --porcelain \
           && git \
-            -c "user.name=${GITHUB_ACTOR}" \
-            -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" \
+            -c "user.name=bot" \
+            -c "user.email=bot@example" \
             commit -m "${{ github.workflow }}" \
           && git push origin HEAD

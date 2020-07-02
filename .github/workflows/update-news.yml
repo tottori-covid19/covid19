@@ -32,5 +32,5 @@ jobs:
       - if: steps.git_status.outputs.mod != ''
         run: |
           git add data/news.json \
-          && git -c "user.name=${GITHUB_ACTOR}" -c "user.email=${GITHUB_ACTOR}@users.noreply.github.com" commit -m update-news \
+          && git -c "user.name=bot" -c "user.email=bot@example" commit -m update-news \
           && git push origin HEAD
