@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-07-03T11:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm",
+      "text": "2020年7月3日のPCR検査状況・相談件数・入院病床数"
+    },
+    {
       "date": "2020-07-03T09:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1207763.htm",
       "text": "2020年7月3日 鳥取県の緊急支援策リーフレット(第6版)を作成しました"
@@ -9,11 +14,6 @@
       "date": "2020-07-03T06:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1212251.htm",
       "text": "「新しい生活様式」における熱中症予防行動のポイント(マスクを「つける時」「はずす時」のタイミング)"
-    },
-    {
-      "date": "2020-07-02T13:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1205989.htm",
-      "text": "2020年7月2日のPCR検査状況・相談件数・入院病床数"
     }
   ]
 }
