@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2020-07-12T14:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1203145.htm",
+      "text": "新型コロナウイルスに関する県民の皆様・来県される皆様へのお願い事項 (7月12日修正)"
+    },
+    {
+      "date": "2020-07-12T14:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1216223.htm",
+      "text": "県内陽性者5例目(米子保健所2例目)・濃厚接触者等の状況(第2報) (2020年7月12日23時更新)"
+    },
+    {
       "date": "2020-07-12T12:37:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1216221.htm",
       "text": "2020年7月12日 特措法に基づく鳥取県新型コロナウイルス感染症対策本部(第21回)(県内陽性者5例目の確定を受けたもの)"
-    },
-    {
-      "date": "2020-07-12T12:35:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1207264.htm",
-      "text": "【1-2 一覧】検査陽性者の属性 (2020年7月12日21時現在)"
-    },
-    {
-      "date": "2020-07-12T11:50:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm",
-      "text": "2020年7月12日のPCR検査状況・相談件数・入院病床数"
     }
   ]
 }
