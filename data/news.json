@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
-      "date": "2020-07-13T07:30:00Z",
+      "date": "2020-07-13T10:45:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1207109.htm",
+      "text": "県内陽性者4例目(鳥取市保健所3例目)・濃厚接触者等の状況(第15報) (2020年7月13日更新)"
+    },
+    {
+      "date": "2020-07-13T10:45:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm",
       "text": "2020年7月13日のPCR検査状況・相談件数・入院病床数"
     },
     {
-      "date": "2020-07-13T01:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1207109.htm",
-      "text": "県内陽性者4例目(鳥取市保健所3例目)・濃厚接触者等の状況(第14報) (2020年7月13日更新)"
-    },
-    {
-      "date": "2020-07-12T16:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1216224.htm",
-      "text": "2020年7月12日 知事から県民の皆様・来県される皆様へのメッセージ (県内陽性者5例目(米子保健所2例目)の確定を受けて)"
+      "date": "2020-07-13T09:30:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm",
+      "text": "感染警戒地域等 (2020年7月13日更新)"
     }
   ]
 }
