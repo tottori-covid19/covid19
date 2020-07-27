@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-07-27T06:55:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm",
+      "text": "2020年7月27日のPCR検査状況・相談件数・入院病床数"
+    },
+    {
       "date": "2020-07-26T23:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1217598.htm",
       "text": "2020年7月25日 知事から県民の皆様へのメッセージ (県内陽性者6例目(鳥取市保健所4例目)の確定を受けて)"
@@ -9,11 +14,6 @@
       "date": "2020-07-26T14:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1216571.htm",
       "text": "県内陽性者6例目(鳥取市保健所4例目)・濃厚接触者等の状況(第5報) (2020年7月26日更新)"
-    },
-    {
-      "date": "2020-07-26T06:45:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm",
-      "text": "2020年7月26日のPCR検査状況・相談件数・入院病床数"
     }
   ]
 }
