@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2020-08-16T23:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1218936.htm",
+      "text": "【重要】来県・帰省される皆様へ ～お盆・夏休みの過ごし方を皆で考えましょう～ (2020年8月5日更新)"
+    },
+    {
       "date": "2020-08-05T15:11:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1209320.htm",
       "text": "チラシ「家庭内での感染を防ぐために…　家庭内でご注意いただきたいこと」 (2020年8月5日版)"
     },
     {
       "date": "2020-08-05T14:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/292983.htm",
-      "text": "県内交通機関車両の換気性能を点検しました！"
-    },
-    {
-      "date": "2020-08-05T12:50:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1207264.htm",
-      "text": "【1-2 一覧】検査陽性者の属性 (2020年8月5日21時50分更新)"
+      "url": "https://corona.go.jp/news/pdf/obonyasumi_0805.pdf",
+      "text": "政府新型コロナウイルス感染症対策分科会 2020年8月5日 お盆休みにおける帰省等のあり方について(提言) (PDF:184KB)"
     }
   ]
 }
