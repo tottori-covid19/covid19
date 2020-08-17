@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-08-17T13:20:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1219240.htm",
+      "text": "島根県松江市の高校でのクラスターの概要 (2020年8月17日22時20分更新)、8月10日 知事から県民の皆様へのメッセージ (松江市の高校でのクラスターを受けて)"
+    },
+    {
       "date": "2020-08-17T10:04:00Z",
       "url": "https://www.pref.tottori.lg.jp/secure/1219631/200817tottori-kangoshi_okinawa-haken(dai1jin)_siryouteikyou_covid-19.pdf",
       "text": "8月18日～ 新型コロナウイルスの感染が拡大している沖縄県の支援のための鳥取県職員(看護師2名)の派遣"
@@ -9,11 +14,6 @@
       "date": "2020-08-17T09:10:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm",
       "text": "2020年8月17日の新型コロナ検査状況・相談件数・病床等使用数"
-    },
-    {
-      "date": "2020-08-17T07:41:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1219604.htm",
-      "text": "全国知事会 2020年8月11日 全国知事会人権メッセージ"
     }
   ]
 }
