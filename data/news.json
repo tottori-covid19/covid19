@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-08-28T05:37:00Z",
+      "url": "https://www.kantei.go.jp/jp/singi/novel_coronavirus/th_siryou/houkoku_r020828.pdf",
+      "text": "政府 2020年8月28日 新型コロナウイルス感染症に関する今後の取組 (PDF:368KB)"
+    },
+    {
       "date": "2020-08-28T03:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215170.htm",
       "text": "感染に警戒する地域(感染警戒地域等)及び当該地域を訪問される方へのお願い (2020年8月28日12時更新)"
@@ -9,11 +14,6 @@
       "date": "2020-08-28T01:31:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1216157.htm",
       "text": "【間もなく終了 期限:8月31日】『#よきよき鳥取』おうちにお届け！仕送り便(先着5,000名)"
-    },
-    {
-      "date": "2020-08-28T01:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm",
-      "text": "2020年8月27日の新型コロナ検査状況・相談件数・病床等使用数"
     }
   ]
 }
