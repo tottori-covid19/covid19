@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-08-28T00:15:00Z",
+      "url": "https://www.pref.tottori.lg.jp/292983.htm",
+      "text": "交通機関は新型コロナ対策万全(車両内の換気性能実証動画) (2020年08月28日更新)"
+    },
+    {
       "date": "2020-08-27T06:40:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm",
       "text": "2020年8月27日の新型コロナ検査状況・相談件数・病床等使用数"
@@ -9,11 +14,6 @@
       "date": "2020-08-27T04:57:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1219190.htm",
       "text": "新型コロナウイルス感染拡大防止のためのクラスター対策等に関する条例のあらまし、全文"
-    },
-    {
-      "date": "2020-08-27T04:00:00Z",
-      "url": "https://www.kouiki-kansai.jp/material/files/group/4/200827sengen.pdf",
-      "text": "関西広域連合 2020年8月27日 関西・クラスター撲滅宣言 ～集団感染を封じ込め、高齢者等の命を守る～"
     }
   ]
 }
