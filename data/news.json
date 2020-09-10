@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-09-10T09:24:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1222314.htm",
+      "text": "新型コロナウイルスに関する人権相談窓口"
+    },
+    {
       "date": "2020-09-10T09:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215170.htm",
       "text": "感染に警戒する地域(感染警戒地域等)及び当該地域を訪問される方へのお願い (2020年9月10日18時更新)"
@@ -9,11 +14,6 @@
       "date": "2020-09-10T09:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm",
       "text": "2020年9月10日の新型コロナ検査状況・相談件数・病床等使用数"
-    },
-    {
-      "date": "2020-09-10T07:46:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1222283.htm",
-      "text": "2020年9月10日 文藝春秋「文藝春秋10月号」(知事インタビュー)"
     }
   ]
 }
