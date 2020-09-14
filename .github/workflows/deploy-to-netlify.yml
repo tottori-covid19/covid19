@@ -36,7 +36,7 @@ jobs:
         run: yarn generate:deploy
 
       - name: Deploy to Netlify
-        uses: nwtgck/actions-netlify@v1.0
+        uses: nwtgck/actions-netlify@v1.1
         with:
           publish-dir: "./dist"
           production-branch: master
