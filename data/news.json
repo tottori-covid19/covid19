@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
-      "date": "2020-09-23T02:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm",
-      "text": "感染に警戒する地域(感染警戒地域等)及び当該地域を訪問される方へのお願い (2020年9月23日11時更新)"
+      "date": "2020-09-23T06:49:00Z",
+      "url": "https://www.kouiki-kansai.jp/material/files/group/4/200922iventsenngen.pdf",
+      "text": "関西広域連合 2020年9月22日 関西・イベント時の感染防止宣言"
     },
     {
-      "date": "2020-09-22T07:40:00Z",
+      "date": "2020-09-23T06:49:00Z",
+      "url": "https://www.kouiki-kansai.jp/material/files/group/4/200922taifuusenngen.pdf",
+      "text": "関西広域連合 2020年9月22日 コロナ禍でも台風時には避難行動を！"
+    },
+    {
+      "date": "2020-09-23T06:20:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm",
-      "text": "2020年9月22日の新型コロナ検査状況・相談件数・病床等使用数"
-    },
-    {
-      "date": "2020-09-22T06:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1196333.htm",
-      "text": "鳥取県版新型コロナ警報 (2020年9月22日15時更新)"
+      "text": "2020年9月23日の新型コロナ検査状況・相談件数・病床等使用数"
     }
   ]
 }
