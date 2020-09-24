@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
-      "date": "2020-09-24T06:20:00Z",
+      "date": "2020-09-24T10:10:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1222764.htm",
+      "text": "Go To Eat キャンペーン事業について(販路拡大・輸出促進課)"
+    },
+    {
+      "date": "2020-09-24T10:05:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1222521.htm",
+      "text": "県内陽性者36例目(米子保健所17例目)・濃厚接触者等の状況(第8報) (2020年9月24日19時05分更新)"
+    },
+    {
+      "date": "2020-09-24T10:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm",
       "text": "2020年9月24日の新型コロナ検査状況・相談件数・病床等使用数"
-    },
-    {
-      "date": "2020-09-23T10:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm",
-      "text": "感染に警戒する地域(感染警戒地域等)及び当該地域を訪問される方へのお願い (2020年9月23日19時更新)"
-    },
-    {
-      "date": "2020-09-23T06:49:00Z",
-      "url": "https://www.kouiki-kansai.jp/material/files/group/4/200922iventsenngen.pdf",
-      "text": "関西広域連合 2020年9月22日 関西・イベント時の感染防止宣言"
     }
   ]
 }
