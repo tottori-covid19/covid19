@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-10-20T02:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/292820.htm",
+      "text": "新型コロナウイルス感染症に関する医療機関・薬局等への支援(慰労金・感染防止対策補助金)"
+    },
+    {
       "date": "2020-10-19T10:11:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1222764.htm#itemid1222764",
       "text": "Go To Eat キャンペーン事業について(販路拡大・輸出促進課)"
@@ -9,11 +14,6 @@
       "date": "2020-10-19T10:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
       "text": "感染に警戒する地域(感染警戒地域等)及び当該地域を訪問される方へのお願い (2020年10月19日19時更新)"
-    },
-    {
-      "date": "2020-10-19T09:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
-      "text": "2020年10月19日の新型コロナ検査状況・相談件数・病床等使用数"
     }
   ]
 }
