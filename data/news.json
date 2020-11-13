@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2020-11-13T07:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
+      "text": "2020年11月13日の新型コロナ検査状況・相談件数・病床等使用数"
+    },
+    {
       "date": "2020-11-13T04:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
       "text": "【11月11日発令区分・基準の変更】感染警戒地域等及び当該地域を訪問される方へのお願い (2020年11月13日13時更新)"
     },
     {
-      "date": "2020-11-12T09:30:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
-      "text": "2020年11月12日の新型コロナ検査状況・相談件数・病床等使用数"
-    },
-    {
-      "date": "2020-11-12T04:49:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1227502.htm#itemid1227502",
-      "text": "直近1週間の人口10万人あたりの感染者数が全国20位に。　ご自身の行動を今一度見直してみましょう (2020年11月11日時点)"
+      "date": "2020-11-12T14:00:00Z",
+      "url": "https://corona.go.jp/proposal/#coldRegion",
+      "text": "内閣官房 2020年11月12日 寒冷な場面における新型コロナ感染防止等のポイント"
     }
   ]
 }
