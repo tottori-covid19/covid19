@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-11-19T12:12:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1227502.htm#itemid1227502",
+      "text": "ご自身の行動を今一度見直してみましょう"
+    },
+    {
       "date": "2020-11-19T09:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
       "text": "2020年11月19日の検査状況(11月19日18時00分更新)"
@@ -9,11 +14,6 @@
       "date": "2020-11-19T08:50:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
       "text": "【11月19日地域名変更、発令区分新設】感染留意地域等及び当該地域を訪問される方へのお願い (2020年11月19日17時50分更新)"
-    },
-    {
-      "date": "2020-11-19T06:30:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1196333.htm#itemid1196333",
-      "text": "改正鳥取県版新型コロナ警報の発令状況 (2020年11月19日15時30分更新)"
     }
   ]
 }
