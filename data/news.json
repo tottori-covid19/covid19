@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2020-11-25T10:10:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1202518.htm#itemid1202518",
+      "text": "東京アンテナショップの陽性者1例目に係る対応状況(第2報) (2020年11月25日19時10分更新)"
+    },
+    {
+      "date": "2020-11-25T07:45:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
+      "text": "2020年11月25日の検査状況(11月25日16時40分更新)"
+    },
+    {
       "date": "2020-11-25T05:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
       "text": "【11月19日地域名変更、発令区分新設】感染警戒地域及び当該地域を訪問される方へのお願い (2020年11月25日14時更新)"
-    },
-    {
-      "date": "2020-11-24T10:20:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
-      "text": "2020年11月24日の検査状況(11月24日19時20分更新)"
-    },
-    {
-      "date": "2020-11-24T08:15:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1202517.htm#itemid1202517",
-      "text": "関西本部の陽性者1例目に係る対応状況(第2報) (2020年11月24日17時15分更新)"
     }
   ]
 }
