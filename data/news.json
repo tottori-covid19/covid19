@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-12-02T15:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1196333.htm#itemid1196333",
+      "text": "鳥取県版新型コロナ警報の発令状況 (2020年12月3日00時00分更新)"
+    },
+    {
       "date": "2020-12-02T13:10:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
       "text": "2020年12月2日の検査状況(12月2日22時10分更新)"
@@ -9,11 +14,6 @@
       "date": "2020-12-02T06:30:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1207045.htm#itemid1207045",
       "text": "2020年12月2日更新 Go To トラベル事業に係る本県の方針"
-    },
-    {
-      "date": "2020-12-02T06:30:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1229249.htm#itemid1229249",
-      "text": "2020年12月2日 知事から皆様へのメッセージ (県内陽性者59～60例目(米子保健所26～27例目)の確定を受けて)"
     }
   ]
 }
