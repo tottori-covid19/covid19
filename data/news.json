@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-12-04T07:30:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
+      "text": "2020年12月4日の検査状況(12月4日19時45分更新)"
+    },
+    {
       "date": "2020-12-04T04:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
       "text": "【11月19日発令区分変更（区分名称・新区分）】感染警戒地域及び当該地域を訪問される方へのお願い (2020年12月4日13時更新)"
@@ -9,11 +14,6 @@
       "date": "2020-12-04T02:50:00Z",
       "url": "https://www.pref.tottori.lg.jp/294744.htm",
       "text": "【鳥取県民限定】#WeLove鳥取キャンペーンPart3 (12月7日～1月11日)"
-    },
-    {
-      "date": "2020-12-03T10:25:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
-      "text": "2020年12月3日の検査状況(12月3日20時45分更新)"
     }
   ]
 }
