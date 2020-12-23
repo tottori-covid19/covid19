@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-12-23T01:10:00Z",
+      "url": "https://www.pref.tottori.lg.jp/295087.htm",
+      "text": "企業内感染防止対策のお願い"
+    },
+    {
       "date": "2020-12-22T14:50:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
       "text": "2020年12月22日の検査状況(12月22日23時50分更新)"
@@ -9,11 +14,6 @@
       "date": "2020-12-22T14:40:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1207264.htm#itemid1207264",
       "text": "【1-2 一覧】新型コロナ検査陽性者の属性 (2020年12月22日23時40分更新)"
-    },
-    {
-      "date": "2020-12-22T12:30:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1230998.htm#itemid1230998",
-      "text": "2020年12月22日 知事から皆様へのメッセージ (県内陽性者70～73例目(鳥取市保健所36～39例目)の確認を受けて)"
     }
   ]
 }
