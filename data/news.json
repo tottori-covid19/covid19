@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-01-03T04:30:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
+      "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年1月3日13時00分更新)"
+    },
+    {
       "date": "2021-01-02T11:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1207264.htm#itemid1207264",
       "text": "【1-2 一覧】新型コロナ検査陽性者の属性 (2021年1月2日20時00分更新)"
@@ -9,11 +14,6 @@
       "date": "2021-01-02T10:30:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1209110.htm#itemid1209110",
       "text": "[クラスター3] 倉吉市の保育所でのクラスターに係る対応 (2021年1月2日19時30分更新)"
-    },
-    {
-      "date": "2021-01-02T10:30:00Z",
-      "url": "https://www.pref.tottori.lg.jp/secure/1231721/210102senmonka-team-chousakekka_kurayoshi-sekigane-hoikuen_siryouteikyou_covid-19.pdf",
-      "text": "2021年1月2日 鳥取県新型コロナウイルス対策専門家チームによる倉吉市立関金保育園への点検調査の結果と今後の対応"
     }
   ]
 }
