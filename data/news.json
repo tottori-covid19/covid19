@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-01-07T07:30:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
+      "text": "2021年1月7日の検査状況(1月7日16時30分更新)"
+    },
+    {
       "date": "2021-01-07T07:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1231653.htm#itemid1231653",
       "text": "2021年1月8日 特措法に基づく鳥取県新型コロナウイルス感染症対策本部(第60回)"
@@ -9,11 +14,6 @@
       "date": "2021-01-07T04:30:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1231596.htm#itemid1231596",
       "text": "クラスターに係る対応 (2021年1月7日13時30分更新)"
-    },
-    {
-      "date": "2021-01-07T02:30:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
-      "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年1月7日11時40分更新)"
     }
   ]
 }
