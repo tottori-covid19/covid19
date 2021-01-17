@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-01-17T04:20:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
+      "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年1月17日13時20分更新)"
+    },
+    {
       "date": "2021-01-16T11:15:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
       "text": "2021年1月16日の検査状況 (1月16日20時15分更新)"
@@ -9,11 +14,6 @@
       "date": "2021-01-16T11:05:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1207264.htm#itemid1207264",
       "text": "【1-2 一覧】新型コロナ検査陽性者の属性 (2021年1月16日20時05分更新)"
-    },
-    {
-      "date": "2021-01-16T04:20:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
-      "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年1月16日13時20分更新)"
     }
   ]
 }
