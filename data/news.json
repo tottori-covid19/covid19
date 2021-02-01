@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-02-01T15:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1196333.htm#itemid1196333",
+      "text": "鳥取県版新型コロナ警報の発令状況 (2021年2月2日0時00分更新)"
+    },
+    {
       "date": "2021-02-01T10:02:00Z",
       "url": "https://www.pref.tottori.lg.jp/295636.htm",
       "text": "【事前相談受付中】県内企業多角化・新展開応援事業補助金"
@@ -9,11 +14,6 @@
       "date": "2021-02-01T09:30:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
       "text": "2021年2月1日の検査状況 (2月1日18時30分更新)"
-    },
-    {
-      "date": "2021-02-01T09:30:00Z",
-      "url": "https://www.pref.tottori.lg.jp/292820.htm",
-      "text": "【最終提出期限：2月26日】新型コロナウイルス感染症に関する医療機関・薬局等への支援(慰労金・感染防止対策補助金)"
     }
   ]
 }
