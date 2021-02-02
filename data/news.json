@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2021-02-02T02:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1193051.htm#itemid1193051",
+      "text": "新型コロナウイルスのPCR検査を自費で受けられる機関 (2021年2月2日現在)"
+    },
+    {
+      "date": "2021-02-02T01:10:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
+      "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年2月2日10時10分更新)"
+    },
+    {
       "date": "2021-02-01T15:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1196333.htm#itemid1196333",
       "text": "鳥取県版新型コロナ警報の発令状況 (2021年2月2日0時00分更新)"
-    },
-    {
-      "date": "2021-02-01T10:02:00Z",
-      "url": "https://www.pref.tottori.lg.jp/295636.htm",
-      "text": "【事前相談受付中】県内企業多角化・新展開応援事業補助金"
-    },
-    {
-      "date": "2021-02-01T09:30:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
-      "text": "2021年2月1日の検査状況 (2月1日18時30分更新)"
     }
   ]
 }
