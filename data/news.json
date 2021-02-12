@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-02-12T02:50:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
+      "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年2月12日11時50分更新)"
+    },
+    {
       "date": "2021-02-11T15:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1196333.htm#itemid1196333",
       "text": "鳥取県版新型コロナ警報の発令状況 (2021年2月12日00時00分更新)"
@@ -9,11 +14,6 @@
       "date": "2021-02-11T09:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
       "text": "2021年2月11日の検査状況 (2月11日18時30分更新)"
-    },
-    {
-      "date": "2021-02-11T04:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
-      "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年2月11日13時00分更新)"
     }
   ]
 }
