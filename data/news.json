@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-02-16T01:40:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
+      "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年2月16日10時40分更新)"
+    },
+    {
       "date": "2021-02-15T09:30:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
       "text": "2021年2月15日の検査状況 (2月15日18時30分更新)"
@@ -9,11 +14,6 @@
       "date": "2021-02-15T07:52:00Z",
       "url": "https://www.pref.tottori.lg.jp/294744.htm",
       "text": "【鳥取・島根県民限定】#WeLove山陰キャンペーン（３月１日～３月３１日））"
-    },
-    {
-      "date": "2021-02-15T02:40:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
-      "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年2月15日11時40分更新)"
     }
   ]
 }
