@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
-      "date": "2021-02-22T09:30:00Z",
+      "date": "2021-02-23T06:50:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
-      "text": "2021年2月22日の検査状況 (2月22日18時30分更新)"
+      "text": "2021年2月23日の検査状況 (2月23日15時50分更新)"
+    },
+    {
+      "date": "2021-02-23T04:25:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
+      "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年2月23日13時25分更新)"
     },
     {
       "date": "2021-02-22T06:30:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1208873.htm#itemid1208873",
       "text": "コロナワクチン接種 概略スケジュール(イメージ) (2021年2月22日更新)"
-    },
-    {
-      "date": "2021-02-22T06:30:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1237199.htm#itemid1237199",
-      "text": "医療従事者等優先接種の進め方 (2021年2月22日更新)"
     }
   ]
 }
