@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-02-24T02:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1193051.htm#itemid1193051",
+      "text": "新型コロナウイルスのPCR検査を自費で受けられる機関 (2021年2月24日現在)"
+    },
+    {
       "date": "2021-02-24T01:20:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
       "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年2月24日10時20分更新)"
@@ -8,12 +13,7 @@
     {
       "date": "2021-02-24T00:18:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1236025.htm#itemid1236025",
-      "text": "【2月28日販売終了！】とっとりGo To Eat プレミアム付食事券"
-    },
-    {
-      "date": "2021-02-23T10:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1196333.htm#itemid1196333",
-      "text": "鳥取県版新型コロナ警報の発令状況 (2021年2月23日19時00分更新)"
+      "text": "【販売期間再延長：～5月31日】とっとりGo To Eat プレミアム付食事券"
     }
   ]
 }
