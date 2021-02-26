@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2021-02-26T14:00:00Z",
+      "url": "https://corona.go.jp/news/pdf/ikoukikan_taiou_20210226.pdf",
+      "text": "内閣官房 2021年2月26日 基本的対処方針に基づく催物の開催制限、施設の使用制限等に係る留意事項等について(事務連絡) (PDF:1,380KB)"
+    },
+    {
+      "date": "2021-02-26T13:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1203084.htm#itemid1203084",
+      "text": "政府 2021年2月26日 新型コロナウイルス感染症対策の基本的対処方針変更"
+    },
+    {
       "date": "2021-02-26T12:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1204674.htm#itemid1204674",
       "text": "[緊急事態宣言まとめ] 政府 2021年2月26日 緊急事態宣言の区域変更(中京、関西及び福岡を解除。関東1都3県に)"
-    },
-    {
-      "date": "2021-02-26T10:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
-      "text": "2021年2月26日の検査状況 (2月26日19時00分更新)"
-    },
-    {
-      "date": "2021-02-26T06:30:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1232134.htm#itemid1232134",
-      "text": "ワクチンに関する問い合わせ先 (外部リンク) (2021年2月26日更新)"
     }
   ]
 }
