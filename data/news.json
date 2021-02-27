@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2021-02-27T07:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
+      "text": "2021年2月27日の検査状況 (2月27日16時00分更新)"
+    },
+    {
+      "date": "2021-02-27T05:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
+      "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年2月27日14時00分更新)"
+    },
+    {
       "date": "2021-02-27T02:15:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1196333.htm#itemid1196333",
-      "text": "鳥取県版新型コロナ警報の発令状況 (2021年2月23日19時00分更新)"
-    },
-    {
-      "date": "2021-02-26T14:00:00Z",
-      "url": "https://corona.go.jp/news/pdf/ikoukikan_taiou_20210226.pdf",
-      "text": "内閣官房 2021年2月26日 基本的対処方針に基づく催物の開催制限、施設の使用制限等に係る留意事項等について(事務連絡) (PDF:1,380KB)"
-    },
-    {
-      "date": "2021-02-26T13:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1203084.htm#itemid1203084",
-      "text": "政府 2021年2月26日 新型コロナウイルス感染症対策の基本的対処方針変更"
+      "text": "鳥取県版新型コロナ警報の発令状況 (2021年2月27日11時15分更新)"
     }
   ]
 }
