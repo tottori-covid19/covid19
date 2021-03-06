@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2021-03-05T13:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1203084.htm#itemid1203084",
+      "text": "政府 2021年3月5日変更 新型コロナウイルス感染症対策の基本的対処方針"
+    },
+    {
       "date": "2021-03-05T12:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1204674.htm#itemid1204674",
-      "text": "[緊急事態宣言まとめ] 政府 2021年3月5日(適用日:3月8日) 緊急事態宣言の期間延長(～3月21日)"
+      "text": "[緊急事態宣言まとめ] 政府 2021年3月5日 緊急事態宣言の期間延長(～3月21日)"
     },
     {
       "date": "2021-03-05T09:30:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
       "text": "2021年3月5日の検査状況 (3月5日18時30分更新)"
-    },
-    {
-      "date": "2021-03-05T09:07:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1238867.htm#itemid1238867",
-      "text": "県新型コロナワクチン相談センター 2021年3月8日開設"
     }
   ]
 }
