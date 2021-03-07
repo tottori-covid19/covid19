@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
-      "date": "2021-03-06T09:30:00Z",
+      "date": "2021-03-07T06:20:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
-      "text": "2021年3月6日の検査状況 (3月6日18時30分更新)"
+      "text": "2021年3月7日の検査状況 (3月7日15時20分更新)"
+    },
+    {
+      "date": "2021-03-07T04:10:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
+      "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年3月7日13時10分更新)"
     },
     {
       "date": "2021-03-05T13:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1203084.htm#itemid1203084",
       "text": "政府 2021年3月5日変更 新型コロナウイルス感染症対策の基本的対処方針"
-    },
-    {
-      "date": "2021-03-05T12:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1204674.htm#itemid1204674",
-      "text": "[緊急事態宣言まとめ] 政府 2021年3月5日 緊急事態宣言の期間延長(～3月21日)"
     }
   ]
 }
