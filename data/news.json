@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
+      "date": "2021-03-16T06:15:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
+      "text": "2021年3月16日の検査状況 (3月16日15時15分更新)"
+    },
+    {
       "date": "2021-03-16T01:20:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
       "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年3月16日10時20分更新)"
     },
     {
-      "date": "2021-03-15T09:40:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
-      "text": "2021年3月15日の検査状況 (3月15日18時40分更新)"
-    },
-    {
-      "date": "2021-03-11T09:29:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1195554.htm#itemid1195554",
-      "text": "厚生労働省 変異株スクリーニング検査の実施状況(速報値) (2021年3月9日更新)"
+      "date": "2021-03-12T14:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1208873.htm#itemid1208873",
+      "text": "コロナワクチン接種 概略スケジュール (2021年3月12日更新)"
     }
   ]
 }
