@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-03-25T06:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
+      "text": "2021年3月25日の検査状況 (3月25日15時00分更新)"
+    },
+    {
       "date": "2021-03-25T05:05:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1233091.htm#itemid1233091",
       "text": "コロナ関係補助金の申請・実績報告期限にご注意ください！"
@@ -9,11 +14,6 @@
       "date": "2021-03-25T04:16:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1241061.htm#itemid1241061",
       "text": "関西経済連合会からの寄付を活用した新型コロナ患者等搬送車両の配備"
-    },
-    {
-      "date": "2021-03-25T01:30:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
-      "text": "【3月22日区分見直し】感染警戒地域及び当該地域を訪問される方へのお願い (2021年3月25日10時30分更新)"
     }
   ]
 }
