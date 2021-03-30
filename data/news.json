@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
-      "date": "2021-03-30T07:15:00Z",
+      "date": "2021-03-30T11:45:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1207264.htm#itemid1207264",
+      "text": "【1-2 一覧】新型コロナ検査陽性者の属性 (2021年3月30日20時45分更新)"
+    },
+    {
+      "date": "2021-03-30T11:45:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
-      "text": "2021年3月30日の検査状況 (3月30日16時15分更新)"
+      "text": "2021年3月30日の検査状況 (3月30日20時45分更新)"
     },
     {
       "date": "2021-03-30T07:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1196333.htm#itemid1196333",
       "text": "鳥取県版新型コロナ警報の発令状況 (2021年3月30日16時00分更新)"
-    },
-    {
-      "date": "2021-03-30T06:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1195555.htm#itemid1195555",
-      "text": "感染急拡大を踏まえた県庁の対応(2021年3月30日)"
     }
   ]
 }
