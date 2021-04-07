@@ -1,19 +1,19 @@
 {
   "newsItems": [
     {
-      "date": "2021-04-07T07:45:00Z",
+      "date": "2021-04-07T10:45:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
-      "text": "2021年4月7日の検査状況 (4月7日16時45分更新)"
+      "text": "2021年4月7日の検査状況 (4月7日19時45分更新)"
+    },
+    {
+      "date": "2021-04-07T10:30:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1207264.htm#itemid1207264",
+      "text": "【1-2 一覧】新型コロナ検査陽性者の属性 (2021年4月7日19時30分更新)"
     },
     {
       "date": "2021-04-07T06:58:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1232134.htm#itemid1232134",
       "text": "ワクチンに関する問い合わせ先 (2021年4月7日更新)"
-    },
-    {
-      "date": "2021-04-07T05:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1207763.htm#itemid1207763",
-      "text": "鳥取県の緊急支援策リーフレット(第9版)を作成しました"
     }
   ]
 }
