@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-04-09T07:45:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
+      "text": "2021年4月9日の検査状況 (4月9日16時45分更新)"
+    },
+    {
       "date": "2021-04-09T06:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1232133.htm#itemid1232133",
       "text": "新型コロナ感染増大警戒情報 (2021年4月9日15時00分更新)"
@@ -8,12 +13,7 @@
     {
       "date": "2021-04-09T06:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1241583.htm#itemid1241583",
-      "text": "「感染急拡大警戒期間」発令中(2021年5月5日まで)"
-    },
-    {
-      "date": "2021-04-09T06:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1242923.htm#itemid1242923",
-      "text": "飲食時の注意事項 (2021年4月9日15時00分更新)"
+      "text": "「感染急拡大警戒期間」発令中(2021年5月5日まで延長) (2021年4月9日15時00分更新)"
     }
   ]
 }
