@@ -2,6 +2,11 @@
   "newsItems": [
     {
       "date": "2021-04-13T02:15:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1207264.htm#itemid1207264",
+      "text": "【1-2 一覧】新型コロナ検査陽性者の属性 (2021年4月13日11時15分更新)"
+    },
+    {
+      "date": "2021-04-13T02:15:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
       "text": "2021年4月12日の検査状況 (4月13日11時15分更新)"
     },
@@ -9,11 +14,6 @@
       "date": "2021-04-13T01:25:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
       "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年4月13日10時25分更新)"
-    },
-    {
-      "date": "2021-04-13T01:19:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1237851.htm#itemid1237851",
-      "text": "高齢者向け優先接種用ワクチンの市町村配分方法、スケジュール (2021年4月13日更新)"
     }
   ]
 }
