@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-04-17T08:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
+      "text": "2021年4月17日の検査状況 (4月17日17時00分更新)"
+    },
+    {
       "date": "2021-04-17T04:15:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
       "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年4月16日10時10分更新)"
@@ -9,11 +14,6 @@
       "date": "2021-04-16T13:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1203084.htm#itemid1203084",
       "text": "政府 2021年4月16日変更 新型コロナウイルス感染症対策の基本的対処方針"
-    },
-    {
-      "date": "2021-04-16T11:30:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
-      "text": "2021年4月16日の検査状況 (4月16日20時30分更新)"
     }
   ]
 }
