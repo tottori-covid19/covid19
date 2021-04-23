@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-04-23T09:45:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
+      "text": "2021年4月23日の検査状況 (4月23日18時45分更新)"
+    },
+    {
       "date": "2021-04-23T08:15:00Z",
       "url": "https://www.pref.tottori.lg.jp/297317.htm",
       "text": "大型連休に向けて事業者の皆さまへのお願い"
@@ -9,11 +14,6 @@
       "date": "2021-04-23T08:04:00Z",
       "url": "https://www.pref.tottori.lg.jp/297034.htm",
       "text": "コロナリスク対応型事業継続補助金"
-    },
-    {
-      "date": "2021-04-23T07:36:00Z",
-      "url": "https://www.kouiki-kansai.jp/material/files/group/4/0422.pdf",
-      "text": "関西広域連合 2021年4月23日 関西・GW感染拡大防止徹底宣言"
     }
   ]
 }
