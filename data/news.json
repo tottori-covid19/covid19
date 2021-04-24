@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-04-24T04:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
+      "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年4月24日13時10分更新)"
+    },
+    {
       "date": "2021-04-24T01:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
       "text": "2021年4月23日の検査状況 (4月24日10時00分更新)"
@@ -9,11 +14,6 @@
       "date": "2021-04-23T14:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1245481.htm#itemid1245481",
       "text": "2021年4月23日 知事メッセージ"
-    },
-    {
-      "date": "2021-04-23T08:15:00Z",
-      "url": "https://www.pref.tottori.lg.jp/297317.htm",
-      "text": "大型連休に向けて事業者の皆さまへのお願い"
     }
   ]
 }
