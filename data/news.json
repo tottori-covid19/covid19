@@ -1,11 +1,6 @@
 {
   "newsItems": [
     {
-      "date": "2021-05-07T12:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1204674.htm#itemid1204674",
-      "text": "[緊急事態宣言まとめ] 政府 2021年5月7日 期間延長(～5月31日)、区域変更(愛知及び福岡を追加し、6都府県に)"
-    },
-    {
       "date": "2021-05-07T11:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
       "text": "2021年5月7日の検査状況 (5月7日20時00分更新)"
@@ -14,6 +9,11 @@
       "date": "2021-05-07T10:50:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1207264.htm#itemid1207264",
       "text": "【1-2 一覧】新型コロナ検査陽性者の属性 (2021年5月7日19時50分更新)"
+    },
+    {
+      "date": "2021-05-07T06:01:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1244912.htm#itemid1244912",
+      "text": "2020年の全国一斉緊急事態宣言を超える感染状況(感染警戒地域全国地図) (2021年5月7日現在)"
     }
   ]
 }
