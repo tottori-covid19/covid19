@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-05-13T06:31:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1246889.htm#itemid1246889",
+      "text": "2021年5月13日 特措法に基づく鳥取県新型コロナウイルス感染症対策本部(第79回)・第74回鳥取市新型コロナウイルス感染症対策本部合同会議"
+    },
+    {
       "date": "2021-05-13T01:10:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
       "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年5月13日10時10分更新)"
@@ -9,11 +14,6 @@
       "date": "2021-05-13T01:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1207264.htm#itemid1207264",
       "text": "【1-2 一覧】新型コロナ検査陽性者の属性 (2021年5月13日10時00分更新)"
-    },
-    {
-      "date": "2021-05-13T01:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
-      "text": "2021年5月12日の検査状況 (5月13日10時00分更新)"
     }
   ]
 }
