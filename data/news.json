@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-05-16T10:00:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
+      "text": "2021年5月16日の検査状況 (5月16日19時20分更新)"
+    },
+    {
       "date": "2021-05-16T05:52:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1247119.htm#itemid1247119",
       "text": "中国地方知事会 2021年5月16日 メッセージ　～コロナ感染に最大級の警戒を！～"
@@ -9,11 +14,6 @@
       "date": "2021-05-16T04:30:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
       "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年5月16日13時30分更新)"
-    },
-    {
-      "date": "2021-05-16T01:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
-      "text": "2021年5月15日の検査状況 (5月16日10時20分更新)"
     }
   ]
 }
