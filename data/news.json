@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-05-21T10:50:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1247772.htm#itemid1247772",
+      "text": "2021年5月21日 ABEMA「変わる報道番組 #アベプラ(ABEMA Prime)」(知事生出演)"
+    },
+    {
       "date": "2021-05-21T10:10:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1207264.htm#itemid1207264",
       "text": "【1-2 一覧】新型コロナ検査陽性者の属性 (2021年5月21日19時10分更新)"
@@ -9,11 +14,6 @@
       "date": "2021-05-21T10:10:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
       "text": "2021年5月21日の検査状況 (5月21日19時10分更新)"
-    },
-    {
-      "date": "2021-05-21T08:25:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1248061.htm#itemid1248061",
-      "text": "米子市の淀江ゆめ温泉を5月17、19日に利用され、ご心配な方はお電話を(店舗公表内容)"
     }
   ]
 }
