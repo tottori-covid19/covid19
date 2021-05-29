@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2021-05-29T04:30:00Z",
+      "url": "https://www.pref.tottori.lg.jp/item/1215170.htm#itemid1215170",
+      "text": "感染警戒地域及び当該地域を訪問される方へのお願い (2021年5月29日13時30分更新)"
+    },
+    {
       "date": "2021-05-28T09:30:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1215465.htm#itemid1215465",
       "text": "2021年5月28日の検査状況 (5月28日18時30分更新)"
@@ -9,11 +14,6 @@
       "date": "2021-05-28T07:00:00Z",
       "url": "https://www.pref.tottori.lg.jp/item/1248894.htm#itemid1248894",
       "text": "2021年5月28日 知事メッセージ"
-    },
-    {
-      "date": "2021-05-28T06:00:00Z",
-      "url": "https://www.pref.tottori.lg.jp/item/1208873.htm#itemid1208873",
-      "text": "コロナワクチン接種 概略スケジュール、接種状況 (2021年5月28日更新)"
     }
   ]
 }
